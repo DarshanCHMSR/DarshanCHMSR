@@ -5,6 +5,9 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![GitHub Stats](https://gh-readme-stats-ar363.vercel.app/api?username=DarshanCHMSR&show_icons=true&theme=blue-green&count_private=true)
+
+![GitHub Stats](https://gh-readme-stats-ar363.vercel.app/api?username=DarshanCHMSR&show_icons=true&theme=blue-green&count_private=true)
 
 <!---
 DarshanCHMSR/DarshanCHMSR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
